@@ -27,7 +27,7 @@
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="-" alt="trophies" />
+  <img src="-" alt="" />
 </div>
 
 ---
