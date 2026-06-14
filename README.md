@@ -27,7 +27,7 @@
 
 ### 🏆 Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HEAD588&theme=radical&no-frame=true&column=4" alt="trophies" />
+  <img src="-" alt="trophies" />
 </div>
 
 ---
